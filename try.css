@@ -1,0 +1,33 @@
+body{
+	text-align:center;
+	background:url("Opacity.jpg");
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	height:90vh;
+	margin:10;
+
+}
+center{
+	margin: 9vh;
+
+}
+audio:hover,audio:focus,audio:active{
+	box-shadow:15px 15px 20px rgb(0,0,0,0.4);
+	transform:scale(1.05);
+}
+audio{
+	transition: all 0.5s linear;
+	box-shadow:2px 2px 4px 0px #006773;
+	border-radius:96px;
+	
+}
+img{
+
+	
+	box-shadow:4px 4px 4px 4px #006773;
+	border-radius:96px;
+	
+}
+
+
